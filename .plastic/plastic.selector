@@ -1,0 +1,4 @@
+repository "Stickman/Stickman@6872899725563@cloud"
+  path "/"
+    br "/main"
+    co "/main"
